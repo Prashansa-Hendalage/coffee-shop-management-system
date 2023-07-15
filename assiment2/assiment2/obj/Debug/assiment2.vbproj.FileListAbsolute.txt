@@ -1,0 +1,13 @@
+D:\3 sem\2311 Rapid Application Development\VisualStudio-Ex\assiment2\assiment2\bin\Debug\assiment2.exe.config
+D:\3 sem\2311 Rapid Application Development\VisualStudio-Ex\assiment2\assiment2\bin\Debug\assiment2.exe
+D:\3 sem\2311 Rapid Application Development\VisualStudio-Ex\assiment2\assiment2\bin\Debug\assiment2.pdb
+D:\3 sem\2311 Rapid Application Development\VisualStudio-Ex\assiment2\assiment2\bin\Debug\assiment2.xml
+D:\3 sem\2311 Rapid Application Development\VisualStudio-Ex\assiment2\assiment2\obj\Debug\assiment2.vbproj.AssemblyReference.cache
+D:\3 sem\2311 Rapid Application Development\VisualStudio-Ex\assiment2\assiment2\obj\Debug\assiment2.Resources.resources
+D:\3 sem\2311 Rapid Application Development\VisualStudio-Ex\assiment2\assiment2\obj\Debug\assiment2.vbproj.GenerateResource.cache
+D:\3 sem\2311 Rapid Application Development\VisualStudio-Ex\assiment2\assiment2\obj\Debug\assiment2.vbproj.CoreCompileInputs.cache
+D:\3 sem\2311 Rapid Application Development\VisualStudio-Ex\assiment2\assiment2\obj\Debug\assiment2.exe
+D:\3 sem\2311 Rapid Application Development\VisualStudio-Ex\assiment2\assiment2\obj\Debug\assiment2.xml
+D:\3 sem\2311 Rapid Application Development\VisualStudio-Ex\assiment2\assiment2\obj\Debug\assiment2.pdb
+D:\3 sem\2311 Rapid Application Development\VisualStudio-Ex\assiment2\assiment2\obj\Debug\assiment2.FrmLogin.resources
+D:\3 sem\2311 Rapid Application Development\VisualStudio-Ex\assiment2\assiment2\obj\Debug\assiment2.frmFrom2.resources
